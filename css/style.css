@@ -1,0 +1,30 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color:chocolate;
+    font-family: 'Merriweather', serif;
+}
+
+h2 { 
+    color:lime;
+}
+
+h3 {
+    color:khaki;
+}
+
+h4 { 
+    color:lightcoral;
+}
+
+h5 {
+    color: magenta;
+}
+
+h6 {
+    color: navy;
+}
+p {font-family: 'Open Sans', sans-serif;
+}
